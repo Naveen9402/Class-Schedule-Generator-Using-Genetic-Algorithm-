@@ -20,6 +20,6 @@ A research on creation of metaheuristic university class timetable scheduling so
 ### Dependencies:
 1. Numpy
 2. PyQT5
-3. psutil
+3. psutil 
 
 
